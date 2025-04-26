@@ -1,8 +1,6 @@
 /* __________MMA__________ */
 /* #region MMA */
-
 /* #region Header */
-
 header {
   padding: 0 30px;
   position: absolute;
@@ -79,9 +77,7 @@ nav ul li a:hover {
 }
 
 /* #endregion Header */
-
 /* #region Hero */
-
 .Skills-section {
   padding-top: 80px;
   background-image: url(../img/mma/WhatsApp\ Image\ 2024-11-13\ at\ 21.26.28_21b79a39.jpg);
@@ -145,12 +141,9 @@ nav ul li a:hover {
 }
 
 /* #endregion Hero */
-
 /* #endregion MMA */
-
 /* __________MSM__________ */
 /* #region MSM */
-
 .msm {
   border-bottom: 1px solid #dde1e6;
   background: #fff;
@@ -219,10 +212,8 @@ nav ul li a:hover {
 }
 
 /* #endregion MSM */
-
 /* __________MEA__________ */
 /* #region MEA */
-
 .about-section {
   padding: 40px 0;
 }
@@ -272,46 +263,41 @@ nav ul li a:hover {
 }
 
 /* #endregion MEA */
-
 /* __________MAK__________ */
 /* #region MAK */
 /* @charset "utf-8"; */
-
-body{
-background-color:#FFFFFF;
+body {
+  background-color: #ffffff;
 }
 
-#horizontal-container{
-display:flex;
-gap:20px;
+#horizontal-container {
+  display: flex;
+  gap: 20px;
 }
 
-p{
-color:gray;
-font-size:12px;
+p {
+  color: gray;
+  font-size: 12px;
 }
 
-button1{
-background-color:#FF5521;
-color:#FFFFFF;
+button1 {
+  background-color: #ff5521;
+  color: #ffffff;
 }
 
-
-button2{
-background-color:#FFFFFF;
-color: #FE5722;
+button2 {
+  background-color: #ffffff;
+  color: #fe5722;
 }
 
-#orange-button{
-background-color:#FE5722;
-color:#FFFFFF;
+#orange-button {
+  background-color: #fe5722;
+  color: #ffffff;
 }
 
 /* #endregion MAK */
-
 /* __________AMK__________ */
 /* #region AMK */
-
 footer {
   background: #263238;
   display: flex;
@@ -331,7 +317,6 @@ footer hr {
 }
 
 /* #region top */
-
 footer .top .row {
   align-items: center;
   justify-content: space-between;
@@ -399,11 +384,8 @@ footer .top .row form button:hover {
     gap: 30px;
   }
 }
-
 /* #endregion top */
-
 /* #region middle */
-
 footer .middle .row {
   justify-content: space-between;
   gap: 50px;
@@ -460,16 +442,12 @@ footer .middle .row .col-auto div ul {
     align-items: center;
     text-align: center;
   }
-
   footer .middle .row .col-auto ul {
     justify-content: center;
   }
 }
-
 /* #endregion middle */
-
 /* #region bottom */
-
 footer .bottom .row {
   justify-content: space-between;
   gap: 30px;
@@ -502,7 +480,7 @@ footer .bottom .row ul a {
     align-items: center;
   }
 }
-
 /* #endregion bottom */
-
 /* #endregion AMK */
+
+/*# sourceMappingURL=style.css.map */
